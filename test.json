@@ -1,0 +1,258 @@
+[
+    {
+        "_id": 1,
+        "name": "React",
+        "videos": [
+            {
+                "id": 1,
+                "videos": "https://i.ytimg.com/vi/Dorf8i6lCuk/maxresdefault.jpg",
+                "name": "React Full Project",
+                "details": "Get Started with React.js"
+            },
+            {
+                "id": 2,
+                "name": "React JS Tutorial",
+                "videos": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210322182303/ReactJS-Tutorial.png",
+                "details": "Get Started with React.js and learn how to build amazing websites with ReactJS! Full Project included, 100% free!"
+            },
+            {
+                "id": 3,
+                "name": "React Component",
+                "videos": "https://ihatetomatoes.net/wp-content/uploads/2017/08/05-reactDOM-render.png",
+                "details": "React elements. Typically created via JSX. · Arrays and fragments. Let you return multiple elements from render."
+            },
+            {
+                "id": 4,
+                "name": "10 minutes About React",
+                "videos": "https://www.edureka.co/blog/wp-content/uploads/2017/07/ReactJS_0png.png",
+                "details": "React has a good learning curve in comparison to other web development frameworks, and so you should have no trouble learning the basics in a few days or weeks"
+            },
+            {
+                "id": 5,
+                "name": "What is React Native",
+                "videos": "https://i.ytimg.com/vi/6ZnfsJ6mM5c/maxresdefault.jpg",
+                "details": "React Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces."
+            },
+            {
+                "id": 6,
+                "name": "Is React Native Cross Platform?",
+                "videos": "https://codersera.com/blog/wp-content/uploads/2019/02/react-native.png",
+                "details": "React Native is an open-source UI software framework created by Meta Platforms, Inc. It is used to develop applications for Android etc..."
+            }
+        ],
+        "total": 6
+    },
+    {
+        "_id": 2,
+        "name": "JavaScript",
+        "videos": [
+            {
+                "id": 1,
+                "name": "JavaScript for Beginners",
+                "videos": "https://i.ytimg.com/vi/vEROU2XtPR8/maxresdefault.jpg",
+                "details": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web."
+            },
+            {
+                "id": 2,
+                "name": "JS Crash Course",
+                "videos": "https://i.ytimg.com/vi/PkZNo7MFNFg/maxresdefault.jpg",
+                "details": "JavaScript Crash Course: A Crash Course in JavaScript covering basic, numbers, strings, conditional logic, arrays, loops, functions, objects with live"
+            },
+            {
+                "id": 3,
+                "name": "JavaScript Advance",
+                "videos": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/06/JavaScript-Tutorial.jpg",
+                "details": "Here we learn JavaScript, starting from scratch and go on to advanced concepts like OOP. We concentrate on the language itself here"
+            },
+            {
+                "id": 4,
+                "name": "OOP JS Tutorial",
+                "videos": "https://i.ytimg.com/vi/GEuS0tfLfEY/maxresdefault.jpg",
+                "details": "JavaScript is not a class-based object-oriented language. But it still has ways of using object oriented programming (OOP)."
+            },
+            {
+                "id": 5,
+                "name": "JavaScript Objects",
+                "videos": "https://i.ytimg.com/vi/e--K9kCz-v0/maxresdefault.jpg",
+                "details": "JavaScript objects are containers for named values called properties. Object Methods. Objects can also have methods."
+            },
+            {
+                "id": 6,
+                "name": "Arrays in JavaScript",
+                "videos": "https://i.ytimg.com/vi/3tmpNF0BUdI/maxresdefault.jpg",
+                "details": "Arrays are a special type of objects. The typeof operator in JavaScript returns Objects for arrays"
+            }
+        ],
+        "total": 6
+    },
+    {
+        "_id": 3,
+        "name": "CSS",
+        "videos": [
+            {
+                "id": 1,
+                "name": "CSS Beginners",
+                "videos": "https://i.ytimg.com/vi/yfoY53QXEnI/maxresdefault.jpg",
+                "details": "CSS describes how HTML elements should be displayed. This tutorial will teach you CSS from basic to advanced"
+            },
+            {
+                "id": 2,
+                "name": "CSS",
+                "videos": "https://i.ytimg.com/vi/uOltiFI00rU/maxresdefault.jpg",
+                "details": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed"
+            },
+            {
+                "id": 3,
+                "name": "CSS Crash Course",
+                "videos": "https://i.ytimg.com/vi/Icf5D3fEKbM/maxresdefault.jpg",
+                "details": "This crash course from Web Dev Simplified covers everything you need to know to get up and running with CSS in just over 20 minutes"
+            },
+            {
+                "id": 4,
+                "name": "CSS Hover",
+                "videos": "https://i.ytimg.com/vi/u_xNgzzfaM8/maxresdefault.jpg",
+                "details": "The :hover CSS pseudo-class matches when the user interacts with an element with a pointing device, but does not necessarily activate it"
+            },
+            {
+                "id": 5,
+                "name": "CSS Color",
+                "videos": "https://i.ytimg.com/vi/srg4sIbzE1k/maxresdefault.jpg",
+                "details": "The <color> CSS data type represents a color. A <color> may also include an alpha-channel transparency value, indicating how the color should work"
+            },
+            {
+                "id": 6,
+                "name": "SASS",
+                "videos": "https://i.ytimg.com/vi/Ta0hiPMH9Qg/maxresdefault.jpg",
+                "details": "CSS with superpowers. Sass is the most mature, stable, and powerful professional grade CSS extension language in the worl"
+            }
+        ],
+        "total": 6
+    },
+    {
+        "_id": 4,
+        "name": "Git",
+        "videos": [
+            {
+                "id": 1,
+                "name": "Git Beginners",
+                "videos": "https://www.freecodecamp.org/news/content/images/2021/11/g1117.png",
+                "details": "This tutorial will help you understand what Git and version control are, the basic Git commands you need to know, how you can use its features "
+            },
+            {
+                "id": 2,
+                "name": "Git",
+                "videos": "https://i.ytimg.com/vi/uOltiFI00rU/maxresdefault.jpg",
+                "details": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+            },
+            {
+                "id": 3,
+                "name": "Git Crash Course",
+                "videos": "https://i.ytimg.com/vi/RGOj5yH7evk/maxresdefault.jpg",
+                "details": "This tutorial will help you get started, and in no time you will be a Git Ninja! Contents: How Git Works; Installing Git on your Machine"
+            },
+            {
+                "id": 4,
+                "name": "All you need to know about git",
+                "videos": "https://blog.eduonix.com/wp-content/uploads/2018/09/Git-Github-Essentials.jpg",
+                "details": "Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed ..."
+            },
+            {
+                "id": 5,
+                "name": "What is Github",
+                "videos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS_lYPbrNx_Q0b_pnGwBuB9NrV8vumLpBTqZl-xyQl4KV2jBCgl8k9ysJ94hM1R9lcRgY&usqp=CAU",
+                "details": "GitHub is where over 83 million developers shape the future of software, together. Contribute to the open source community"
+            },
+            {
+                "id": 6,
+                "name": "Github Download Tutorial",
+                "videos": "https://www.howtogeek.com/wp-content/uploads/2022/08/github_hero_2.jpg?height=200p&trim=2,2,2,2",
+                "details": "This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests"
+            }
+        ],
+        "total": 8
+    },
+    {
+        "_id": 5,
+        "name": "HTML",
+        "videos": [
+            {
+                "id": 1,
+                "name": "HTML Beginners",
+                "videos": "https://mcqstop.com/wp-content/uploads/2020/01/Slide1-1-810x552.png",
+                "details": "HTML is used to create web pages. This article will teach you the basics of HTML."
+            },
+            {
+                "id": 2,
+                "name": "HTML",
+                "videos": "https://i.ytimg.com/vi/RjHflb-QgVc/maxresdefault.jpg",
+                "details": "HTML is the standard markup language for Web pages. With HTML you can create your own Website. HTML is easy to learn "
+            },
+            {
+                "id": 3,
+                "name": "Guide to Write Good Html",
+                "videos": "https://websitesetup.org/wp-content/uploads/2021/01/Beginners-Guide-To-Writing-Good-HTML-january-2021.jpg",
+                "details": "In this guide to HTML for beginners, we'll learn what HTML is and what it's used for. Then, we'll walk through how to write HTML"
+            },
+            {
+                "id": 4,
+                "name": "The Best Way to Learn HTML",
+                "videos": "https://blog.eduonix.com/wp-content/uploads/2018/09/Git-Github-Essentials.jpg",
+                "details": "Ever wanted to learn HTML? There are several reasons why you should! Learn this code the right way, and learn it for free."
+            },
+            {
+                "id": 5,
+                "name": "How to Make a Button Link to Another Page in HTML",
+                "videos": "https://stackhowto.com/wp-content/uploads/2020/12/how-to-make-a-button-link-to-another-page-in-html.png",
+                "details": "How to Make a Button Link to Another Page in HTML"
+            },
+            {
+                "id": 6,
+                "name": "How to build a responsive HTML5 website",
+                "videos": "https://www.lingulo.com/wp-content/uploads/2013/04/lingulo-html5-tutorial.jpg",
+                "details": "To create a responsive website, add the following <meta> tag to all your web pages: · Responsive Images"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Bootstrap",
+        "videos": [
+            {
+                "id": 1,
+                "name": "Bootstrap Beginners",
+                "videos": "https://www.tutorialrepublic.com/lib/images/bootstrap-5.0-illustration.png",
+                "details": "Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates for creating common user interface"
+            },
+            {
+                "id": 2,
+                "name": "Bootstrap",
+                "videos": "https://blog.templatetoaster.com/wp-content/uploads/2019/09/What-is-Bootstrap-Facebook.png",
+                "details": "Bootstrap utilizes Sass for a modular and customizable architecture. Import only the components you need, enable global options like gradients and shadows"
+            },
+            {
+                "id": 3,
+                "name": "Bootstrap Crash Course",
+                "videos": "https://i.ytimg.com/vi/5GcQtLDGXy8/maxresdefault.jpg",
+                "details": "Bootstrap 5 Crash Course 2022 · This is a quick jumpstart with Bootstrap 5 · It makes you a better understanding of Bootstrap Components ·"
+            },
+            {
+                "id": 4,
+                "name": "Bootstrap Links and Buttons",
+                "videos": "https://i.ytimg.com/vi/3w2u8aEYDs4/maxresdefault.jpg",
+                "details": "Use Bootstrap's custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more."
+            },
+            {
+                "id": 5,
+                "name": "Bootstrap vs Tailwind",
+                "videos": "https://miro.medium.com/max/1400/0*f1O9nRvT7dA_O7DU.png",
+                "details": "Bootstrap is a component-based framework, which means it comes with prebuilt components and includes other utilities for layering displays, spacing, etc. Tailwind, on the other hand, CSS is a utility-first framework"
+            },
+            {
+                "id": 6,
+                "name": "Bootstrap Sidebar",
+                "videos": "https://d1r27dnp1fh4g5.cloudfront.net/img/pages/fe-thumb/sidebar_5e20b302e1d4f8e801b8e1a930e8840e.webp",
+                "details": "Responsive Sidebar built with Bootstrap 5. Sidebar is a navigation component providing a clear way for navigating complex websites with lots of pages"
+            }
+        ]
+    }
+]
